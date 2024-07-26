@@ -1,0 +1,22 @@
+{
+  "name": "count-doen-timer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "chalk": "^5.3.0",
+    "date-fns": "^3.6.0",
+    "inquirer": "^10.1.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.12"
+  }
+}
